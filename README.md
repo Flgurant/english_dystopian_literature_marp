@@ -98,11 +98,34 @@ Wörter:
 
 ## George Orwell
 
+### Early Life
+
+<!-- 
+Born 1903 in British India
+moved to England with his mother, privileged education, dropped out of uni
+worked for the Indian Imperial Police in Burma
+moved back to britain
+-->
+
 ![bg right:40% 75% drop-shadow](assets/authors/orwell.jpg)
 
+- Real name: Eric Arthur Blair
 - 25.06.1903 (Motihari, India) <br> - 21.01.1950 (London, Great Britain)
-- 
+- moved with his mother to britain
+- worked for the "Indian Imperial Police" in Burma
 
+## George Orwell
+
+### Later Life
+
+<!-- 
+
+Some racism can be found, "yellow faces", witnessing tortures and not doing anything or quitting (Killing an elephant)
+Shooting an elephant
+-->
+
+- Fought in the spanish civil war
+- 
 
 # Fiction vs. reality
 
@@ -122,6 +145,8 @@ Wörter:
 - https://www.readwritethink.org/sites/default/files/resources/lesson_images/lesson926/DefinitionCharacteristics.pdf (08.03.2024)
 - https://literaturhandbuch.de/inhaltsangabe-1984-von-george-orwell (Literaturhandbuch, 10.03.2024)
 - https://www.nature.com/articles/d41586-018-02695-7 (Ananyo Bhattacharya, 10.03.2024)
+
+https://www.palomar.edu/users/cbarkley/e100/shootingessay.htm
 
 ## Image references
 
