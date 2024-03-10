@@ -96,9 +96,13 @@ Wörter:
 
 - WIP
 
-# George Orwell
+## George Orwell
 
-- WIP
+![bg right:40% 75% drop-shadow](assets/authors/orwell.jpg)
+
+- 25.06.1903 (Motihari, India) <br> - 21.01.1950 (London, Great Britain)
+- 
+
 
 ## Fiction vs. reality - Authoritarian regimes
 
