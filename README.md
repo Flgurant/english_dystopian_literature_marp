@@ -127,17 +127,13 @@ In a postscript added by heir cousin, who inherited the copyrights and letters
 - worked for the "Indian Imperial Police" in Burma
 - Fought in the spanish civil war
 
-## George Orwell
-
-### Literature
+## George Orwell - Literature
 
 - Burmese Days (1934)
 - Homage to Catalonia (1938)
 - Animal Farm (1945)
 - Notes on Nationalism (1949)
 - Nineteen Eighty Four (1949)
-
-
 
 ## Fiction vs. reality - Authoritarian regimes
 
