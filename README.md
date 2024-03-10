@@ -51,7 +51,7 @@ Wörter:
 - thoughtcrime: Gedankenverbrechen
 -->
 
-![bg right:40% 75% drop-shadow](books/1984.jpg)
+![bg right:40% 75% drop-shadow](assets/books/1984.jpg)
 
 - Written in 1946-1948 by *George Orwell*
 - Totalitarian state Oceania, mass surveillance, indoctrination & propaganda
@@ -71,7 +71,7 @@ Wörter:
 - servitors: Diener
 -->
 
-![bg right:40% 75% drop-shadow](books/do_androids_dream.jpg)
+![bg right:40% 75% drop-shadow](assets/books/do_androids_dream.jpg)
 
 - Written in 1968 by Philip K. Dick, basis for 1982 movie *Blade Runner*
 - Nuclear fallout, mass emigration, intelligent Android servitors
@@ -80,19 +80,19 @@ Wörter:
 
 ## Literature - The Hunger Games
 
-![bg right:40% 75% drop-shadow](books/the_hunger_games.jpg)
+![bg right:40% 75% drop-shadow](assets/books/the_hunger_games.jpg)
 
 - WIP
 
 ## Literature - We
 
-![bg right:40% 75% drop-shadow](books/we.jpg)
+![bg right:40% 75% drop-shadow](assets/books/we.jpg)
 
 - WIP
 
 ## Literature - Brave New World
 
-![bg right:40% 75% drop-shadow](books/brave_new_world.jpg)
+![bg right:40% 75% drop-shadow](assets/books/brave_new_world.jpg)
 
 - WIP
 
@@ -106,7 +106,7 @@ Wörter:
 
 # Our favorite dystopia
 
-![width:24em drop-shadow](classroom.jpg)
+![width:24em drop-shadow](assets/classroom.jpg)
 
 # Thanks for your 👁️ attention!
 
