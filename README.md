@@ -4,40 +4,59 @@ theme: default
 class: invert
 lang: de
 
-headingDivider: 1
+headingDivider: 2
 paginate: true
 ---
 
 # Dystopian 👁️ Literature
 
-<span style="color:lightgrey">Mark Zink & Fabian Albert, 11.03.2024</span>
+<hr />
+<span style="color: lightgrey;">Mark Zink & Fabian Albert, 11.03.2024</span>
 
 # Structure
 
-1. **Characteristics**
-2. **Significant books**
-3. **... and authors**
-4. **Fiction vs. reality**
-5. **Our favorite dystopia**
+- Definition
+- Characteristics
+- Books
+- Authors
+- Fiction vs. reality
+- References
+
+# Definition
+
+> from Ancient Greek δυσ (dus) 'bad', and τόπος (tópos) 'place'
+
+- Antonym of *utopia*, also called *anti-utopia*, *cacotopia*
+- Imaginary place/community, extremely bad/frightening
 
 # Characteristics
 
 - Oppressive government
-- Enviromental decline
-- Strong social classes
-- Loss of individuality
 - Mass surveillance
-- Corporate control
+- Strong social classes
+- Enviromental decay
+- Loss of individuality
+- Abuse of technology
 
-# Significant books
+## 1984
 
-- Brave New World
-- 1984
-- Pig Farm
-- The Hunger Games
-- Do Androids Dream of Electric Sheep (Bitte prüfen)
-- Blade Runner (Bitte prüfen)
-- We (Bitte prüfen)
+![bg right:40% 75% drop-shadow](books/1984.jpg)
+
+## Do Androids Dream of Electric Sheep?
+
+![bg right:40% 75% drop-shadow](books/do_androids_dream.jpg)
+
+## The Hunger Games
+
+![bg right:40% 75% drop-shadow](books/the_hunger_games.jpg)
+
+## We
+
+![bg right:40% 75% drop-shadow](books/we.jpg)
+
+## Brave New World
+
+![bg right:40% 75% drop-shadow](books/brave_new_world.jpg)
 
 # ... and authors
 
@@ -58,15 +77,24 @@ Wörter:
 
 # Our favorite dystopia
 
-![width:25em drop-shadow](assets/meta.jpeg)
+![width:24em drop-shadow](classroom.jpg)
 
 # Thanks for your 👁️ attention!
 
-<span style="color:lightgrey">Mark Zink & Fabian Albert, 11.03.2024</span>
+<hr />
+<span style="color: lightgrey;">Mark Zink & Fabian Albert, 11.03.2024</span>
 
-# Sources
+## Text references
 
 - https://www.masterclass.com/articles/what-is-dystopian-fiction-learn-about-the-5-characteristics-of-dystopian-fiction-with-examples?__cf_chl_tk=AL145cC15G6Y_XmEt7GaAzBfaJEIvy2Woefj.KsP7Lo-1709218582-0.0-1831
 - https://www.readwritethink.org/sites/default/files/resources/lesson_images/lesson926/DefinitionCharacteristics.pdf
 - https://www.panmacmillan.com/blogs/literary/the-best-dystopian-novels-of-all-time
 - https://reedsy.com/discovery/blog/dystopian-novels
+
+## Image references
+
+- https://www.ppm-vertrieb.de/images/product_images/info_images/314300-20210409140200.jpg (Peter Poluda Medienvertrieb, 10.03.2024)
+- https://i0.wp.com/scifiempire.net/wordpress/wp-content/uploads/2012/07/Do-Androids-Dream-of-Electric-Sheep-cover-novel-by-Philip-K.-Dick.jpg (SciFiEmpire, 10.03.2024)
+- https://d3ddkgxe55ca6c.cloudfront.net/assets/t1619522732/a/46/35/206974-ml-1953076.jpg (Scholastic, 10.03.2024)
+- https://blackwells.co.uk/jacket/l/9780099511434.jpg (Blackwells, 10.03.2024)
+- https://upload.wikimedia.org/wikipedia/en/6/62/BraveNewWorld_FirstEdition.jpg (Chatto and Windus, 10.03.2024)
