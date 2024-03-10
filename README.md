@@ -84,19 +84,13 @@ Wörter:
 
 - WIP
 
-## Literature - We
-
-![bg right:40% 75% drop-shadow](assets/books/we.jpg)
-
-- WIP
-
 ## Literature - Brave New World
 
 ![bg right:40% 75% drop-shadow](assets/books/brave_new_world.jpg)
 
 - WIP
 
-## George Orwell
+# George Orwell
 
 ![bg right:40% 75% drop-shadow](assets/authors/orwell.jpg)
 
@@ -142,7 +136,7 @@ Wörter:
 - Misuse of this (centralized) data already rampant, only getting worse
 - China: Companies play huge role in government's control
 
-## Fiction vs. reality - Orwell's worst nightmares
+## Fiction vs. reality - Orwell's worst nightmare
 
 <!--
 Notizen:
