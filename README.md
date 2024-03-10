@@ -53,7 +53,7 @@ Wörter:
 
 ![bg right:40% 75% drop-shadow](assets/books/1984.jpg)
 
-- Written in 1946-1948 by *George Orwell*
+- Written during 1946-1948 by *George Orwell*
 - Totalitarian state Oceania, mass surveillance, indoctrination & propaganda
 - Dictator: *Big Brother*, huge cult of personality
 - Origin of: *doublethink*, *thoughtcrime*, *Ministry of Truth*, *Thought Police*, etc.
@@ -80,9 +80,22 @@ Wörter:
 
 ## Literature - The Hunger Games
 
+<!--
+Notizen:
+- Propaganda-Aspekt ähnlich 1984
+- Aber: Gewalt statt indirekterer Kontrolle
+
+Wörter:
+- televised: im Fernsehen ausgestrahlt
+- outright: (einfach) offen
+-->
+
 ![bg right:40% 75% drop-shadow](assets/books/the_hunger_games.jpg)
 
-- WIP
+- Trilogy written during 2008-2010 by Suzanne Collins
+- Post-apocalyptic nation *Panem*, wealthy *Capitol* & 13 poor *districts*
+- Yearly *televised battle royale death game* between the children of the districts
+- Outright *violence* as a form of (population) control
 
 ## Literature - Brave New World
 
@@ -90,9 +103,7 @@ Wörter:
 
 - WIP
 
-# George Orwell
-
-### Early Life
+## George Orwell - Early life
 
 <!-- 
 Born 1903 in British India
@@ -104,35 +115,19 @@ moved back to britain
 ![bg right:40% 75% drop-shadow](assets/authors/orwell.jpg)
 
 - Real name: Eric Arthur Blair
-- 25.06.1903 (Motihari, India) <br> - 21.01.1950 (London, Great Britain)
+- 25.06.1903 (Motihari, India) <br /> - 21.01.1950 (London, Great Britain)
 - moved with his mother to britain
 - worked for the "Indian Imperial Police" in Burma
 
-## George Orwell
-
-### Later Life
+## George Orwell - Later life
 
 <!-- 
-
 Some racism can be found, "yellow faces", witnessing tortures and not doing anything or quitting (Killing an elephant)
 Shooting an elephant
 -->
 
 - Fought in the spanish civil war
 - 
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## Fiction vs. reality - Authoritarian regimes
 
@@ -200,11 +195,11 @@ Wörter:
 - https://www.readwritethink.org/sites/default/files/resources/lesson_images/lesson926/DefinitionCharacteristics.pdf (ReadWriteThink, 08.03.2024)
 - https://literaturhandbuch.de/inhaltsangabe-1984-von-george-orwell (Literaturhandbuch, 10.03.2024)
 - https://www.nature.com/articles/d41586-018-02695-7 (Ananyo Bhattacharya, 10.03.2024)
-- https://www.palomar.edu/users/cbarkley/e100/shootingessay.htm
-
+- https://www.palomar.edu/users/cbarkley/e100/shootingessay.htm (Palomar College, 10.03.2024)
 
 ## Text references - 2/2
 
+- https://www.socratic-method.com/blog/what-makes-the-hunger-games-a-dystopia (The Socratic Method, 10.03.2024)
 - https://citizenlab.ca/2023/06/privacy-in-the-wechat-ecosystem-full-report (The Citizen Lab, 10.03.2024)
 - https://www.wired.com/story/telly-tv-free-privacy (Wired, 10.03.2024)
 
