@@ -105,6 +105,13 @@ Born 1903 in British India
 moved to England with his mother, privileged education, dropped out of uni
 worked for the Indian Imperial Police in Burma
 moved back to britain
+
+Some racism can be found, "yellow faces", witnessing tortures and not doing anything or quitting (Shooting an elephant)
+
+Seriously wounded
+
+Rape Allegations, Eric & Us, Jacintha Buddcom
+In a postscript added by heir cousin, who inherited the copyrights and letters
 -->
 
 ![bg right:40% 75% drop-shadow](assets/authors/orwell.jpg)
@@ -113,30 +120,17 @@ moved back to britain
 - 25.06.1903 (Motihari, India) <br> - 21.01.1950 (London, Great Britain)
 - moved with his mother to britain
 - worked for the "Indian Imperial Police" in Burma
+- Fought in the spanish civil war
 
 ## George Orwell
 
-### Later Life
+### Literature
 
-<!-- 
-
-Some racism can be found, "yellow faces", witnessing tortures and not doing anything or quitting (Killing an elephant)
-Shooting an elephant
--->
-
-- Fought in the spanish civil war
-- 
-
-
-
-
-
-
-
-
-
-
-
+- Burmese Days (1934)
+- Homage to Catalonia (1938)
+- Animal Farm (1945)
+- Notes on Nationalism (1949)
+- Nineteen Eighty Four (1949)
 
 
 
