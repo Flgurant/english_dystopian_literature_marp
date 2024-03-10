@@ -17,8 +17,8 @@ paginate: true
 
 - Definition
 - Characteristics
-- Books
-- Authors
+- Literature
+- George Orwell
 - Fiction vs. reality
 - References
 
@@ -38,42 +38,71 @@ paginate: true
 - Loss of individuality
 - Abuse of technology
 
-## 1984
+## Literature - 1984
+
+<!--
+Notizen:
+- Protagonist: Winston Smith, Rebell der letztendlich gehirngewaschen wird
+- Heutzutage (z.B. im Sinne der Corona-Maßnahmen) gerne umhergeschmissen
+
+Wörter:
+- cult of personality: Persönlichkeitskult
+- doublethink: Zwiedenken (zwischen Wahrheiten hin-/herschalten)
+- thoughtcrime: Gedankenverbrechen
+-->
 
 ![bg right:40% 75% drop-shadow](books/1984.jpg)
 
-## Do Androids Dream of Electric Sheep?
+- Written in 1946-1948 by *George Orwell*
+- Totalitarian state Oceania, mass surveillance, indoctrination & propaganda
+- Dictator: *Big Brother*, huge cult of personality
+- Origin of: *doublethink*, *thoughtcrime*, *Ministry of Truth*, *Thought Police*, etc.
+- Themes: *nationalism*, *censorship*, *inequality*
+
+## Literature - Do Androids Dream of Electric Sheep?
+
+<!--
+Notizen:
+- Protagonist: Rick Deckard, hunter
+- Androids portrayed as more human(e) than humans
+
+Wörter:
+- fallout: Auswirkungen
+- servitors: Diener
+-->
 
 ![bg right:40% 75% drop-shadow](books/do_androids_dream.jpg)
 
-## The Hunger Games
+- Written in 1968 by Philip K. Dick, basis for 1982 movie *Blade Runner*
+- Nuclear fallout, mass emigration, intelligent Android servitors
+- Protagonist tasked to kill ('retire') 6 rebellious androids back on Earth
+- Themes: *morality*, *humanity*, *religion*
+
+## Literature - The Hunger Games
 
 ![bg right:40% 75% drop-shadow](books/the_hunger_games.jpg)
 
-## We
+- WIP
+
+## Literature - We
 
 ![bg right:40% 75% drop-shadow](books/we.jpg)
 
-## Brave New World
+- WIP
+
+## Literature - Brave New World
 
 ![bg right:40% 75% drop-shadow](books/brave_new_world.jpg)
 
-# ... and authors
+- WIP
 
-- Aldous Huxley
-- George Orwell
-- Philip K. Dick
+# George Orwell
+
+- WIP
 
 # Fiction vs. reality
 
-<!--
-Wörter:
-- bugging device: Überwachungsgerät
--->
-
-| Category | Fiction | Real Life | Country of Origin | 
-| - | - | - | - |
-| Mass Surveilance | TV with camera and microphone | bugging device | GDR
+- WIP mass surveillance
 
 # Our favorite dystopia
 
@@ -86,10 +115,9 @@ Wörter:
 
 ## Text references
 
-- https://www.masterclass.com/articles/what-is-dystopian-fiction-learn-about-the-5-characteristics-of-dystopian-fiction-with-examples?__cf_chl_tk=AL145cC15G6Y_XmEt7GaAzBfaJEIvy2Woefj.KsP7Lo-1709218582-0.0-1831
-- https://www.readwritethink.org/sites/default/files/resources/lesson_images/lesson926/DefinitionCharacteristics.pdf
-- https://www.panmacmillan.com/blogs/literary/the-best-dystopian-novels-of-all-time
-- https://reedsy.com/discovery/blog/dystopian-novels
+- https://www.readwritethink.org/sites/default/files/resources/lesson_images/lesson926/DefinitionCharacteristics.pdf (08.03.2024)
+- https://literaturhandbuch.de/inhaltsangabe-1984-von-george-orwell (Literaturhandbuch, 10.03.2024)
+- https://www.nature.com/articles/d41586-018-02695-7 (Ananyo Bhattacharya, 10.03.2024)
 
 ## Image references
 
