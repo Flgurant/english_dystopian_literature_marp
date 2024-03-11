@@ -98,6 +98,7 @@ Wörter:
 - Outright *violence* as a form of (population) control
 
 ## Literature - Brave New World
+
 <!-- 
 classes ranging from Alpha++ to Epsilon --
 children are produced not born
@@ -106,13 +107,14 @@ T instead of christian cross (Ford Model T)
 Fordship, cult instead of religion, frequent ceremonies (Solidarity Service): In these you start by singing and dancing, take Soma and end with an orgie
 Difference to 1984: No violence, people are kept satisfied and their needs fullfilled
 -->
+
 ![bg right:40% 75% drop-shadow](assets/books/brave_new_world.jpg)
 
-- Written in 1931 by Aldous Huxley
-- Set in a World State, where people are in intelligence based social classes 
-- Children are "produced" not born
+- Written in 1931 by *Aldous Huxley*
+- Set in a *World State*, where people are in *intelligence based social classes*
+- Children are *produced* not born
 - People are influenced by constant propaganda
-- Cult around Henry Ford &rarr; Fordship
+- Cult around *Henry Ford* &rarr; Fordship
 
 ## George Orwell - Life
 
@@ -228,10 +230,10 @@ Wörter:
 - https://i0.wp.com/scifiempire.net/wordpress/wp-content/uploads/2012/07/Do-Androids-Dream-of-Electric-Sheep-cover-novel-by-Philip-K.-Dick.jpg (SciFiEmpire, 10.03.2024)
 - https://d3ddkgxe55ca6c.cloudfront.net/assets/t1619522732/a/46/35/206974-ml-1953076.jpg (Scholastic, 10.03.2024)
 - https://blackwells.co.uk/jacket/l/9780099511434.jpg (Blackwells, 10.03.2024)
+- https://upload.wikimedia.org/wikipedia/en/6/62/BraveNewWorld_FirstEdition.jpg (Chatto and Windus, 10.03.2024)
 
 ## Image references - 2/2
 
-- https://upload.wikimedia.org/wikipedia/en/6/62/BraveNewWorld_FirstEdition.jpg (Chatto and Windus, 10.03.2024)
 - https://www.zdf.de/assets/big-brother-per-app-100~1280x720?cb=1660724657662 (ZDF, 10.03.2024)
 - https://www.stuttgarter-zeitung.de/media.media.750bc471-2800-410b-a176-6e1552a21ec8.original1024.jpg (Stuttgarter Zeitung, 10.03.2024)
 - https://libroslibroslibros.com/wp-content/uploads/George-Orwell-201x300.jpg (Libros Libros Libros, 10.03.2024)
