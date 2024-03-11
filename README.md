@@ -110,8 +110,8 @@ Difference to 1984: No violence, people are kept satisfied and their needs fullf
 
 - Written in 1931 by Aldous Huxley
 - Set in a World State, where people are in intelligence based social classes 
-- children are "produced" not born
-- people are influenced by constant propaganda
+- Children are "produced" not born
+- People are influenced by constant propaganda
 - Cult around Henry Ford &rarr; Fordship
 
 ## George Orwell - Life
@@ -134,8 +134,8 @@ In a postscript added by heir cousin, who inherited the copyrights and letters
 
 - Real name: Eric Arthur Blair
 - 25.06.1903 (Motihari, India) <br /> - 21.01.1950 (London, Great Britain)
-- moved with his mother to britain
-- worked for the "Indian Imperial Police" in Burma
+- Moved with his mother to britain
+- Worked for the "Indian Imperial Police" in Burma
 - Fought in the spanish civil war
 
 ## George Orwell - Literature
